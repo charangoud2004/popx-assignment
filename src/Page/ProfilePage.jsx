@@ -30,6 +30,7 @@ export const ProfilePage = () => {
         reprehenderit quaerat fugit at! Dolore fugit iste expedita, eos impedit
         modi consequuntur.
       </p>
+      
     </div>
   );
 };
